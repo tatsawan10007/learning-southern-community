@@ -1,0 +1,1 @@
+พร้อมเผยแพร่: อัปโหลด index.html + โฟลเดอร์ assets + .nojekyll ไปยัง GitHub Repository ระดับ root แล้วเปิด Settings > Pages > Deploy from a branch > main > /(root) > Save
